@@ -1,5 +1,5 @@
 ---
-title: Beliefs About Successful Software
+title: Beliefs
 layout: article
 ---
 
