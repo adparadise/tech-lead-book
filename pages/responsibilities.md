@@ -19,6 +19,13 @@ layout: article
 
    e.g. tool building
 
+## Understand the system
+
+
+## Delegate
+
+
+
 ## Be the teams' advocate
 
 * The PM is the client/organization's advocate
